@@ -1,13 +1,12 @@
 # Bible-JSON
-
 The Bible in JSON format.
 
 # Structure:
 This is what it would look like if you were to open up `./JSON/Psalms/3.json`.
 ```json
 {
-    info: "(A Psalm of David, when he fled from Absalom his son.)",
-    verses: [  
+    "info": "(A Psalm of David, when he fled from Absalom his son.)",
+    "verses": [  
         {
             "book_id": "PSA",
             "book_name": "Psalms",
