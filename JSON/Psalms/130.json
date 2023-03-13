@@ -1,0 +1,61 @@
+{
+  "info": "(A Song of degrees.)",
+  "verses": [
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 130,
+      "verse": 1,
+      "text": "Out of the depths have I cried unto thee, O LORD."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 130,
+      "verse": 2,
+      "text": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 130,
+      "verse": 3,
+      "text": "If thou, LORD, shouldest mark iniquities, O Lord, who shall stand?"
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 130,
+      "verse": 4,
+      "text": "But <em>there is</em> forgiveness with thee, that thou mayest be feared."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 130,
+      "verse": 5,
+      "text": "I wait for the LORD, my soul doth wait, and in his word do I hope."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 130,
+      "verse": 6,
+      "text": "My soul <em>waiteth</em> for the Lord more than they that watch for the morning: <em>I say, more than</em> they that watch for the morning."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 130,
+      "verse": 7,
+      "text": "Let Israel hope in the LORD: for with the LORD <em>there is</em> mercy, and with him <em>is</em> plenteous redemption."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 130,
+      "verse": 8,
+      "text": "And he shall redeem Israel from all his iniquities."
+    }
+  ]
+}

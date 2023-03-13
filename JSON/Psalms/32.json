@@ -1,0 +1,82 @@
+{
+  "info": "(<em>A Psalm</em> of David, Maschil.)",
+  "verses": [
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 32,
+      "verse": 1,
+      "text": "Blessed <em>is he whose</em> transgression <em>is</em> forgiven, <em>whose</em> sin <em>is</em> covered."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 32,
+      "verse": 2,
+      "text": "Blessed <em>is</em> the man unto whom the LORD imputeth not iniquity, and in whose spirit <em>there is</em> no guile."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 32,
+      "verse": 3,
+      "text": "When I kept silence, my bones waxed old through my roaring all the day long."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 32,
+      "verse": 4,
+      "text": "For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 32,
+      "verse": 5,
+      "text": "I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the LORD; and thou forgavest the iniquity of my sin. Selah."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 32,
+      "verse": 6,
+      "text": "For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 32,
+      "verse": 7,
+      "text": "Thou <em>art</em> my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 32,
+      "verse": 8,
+      "text": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 32,
+      "verse": 9,
+      "text": "Be ye not as the horse, <em>or</em> as the mule, <em>which</em> have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 32,
+      "verse": 10,
+      "text": "Many sorrows <em>shall be</em> to the wicked: but he that trusteth in the LORD, mercy shall compass him about."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 32,
+      "verse": 11,
+      "text": "Be glad in the LORD, and rejoice, ye righteous: and shout for joy, all <em>ye that are</em> upright in heart."
+    }
+  ]
+}

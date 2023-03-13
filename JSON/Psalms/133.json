@@ -1,0 +1,26 @@
+{
+  "info": "(A Song of degrees of David.)",
+  "verses": [
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 133,
+      "verse": 1,
+      "text": "Behold, how good and how pleasant <em>it is</em> for brethren to dwell together in unity!"
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 133,
+      "verse": 2,
+      "text": "<em>It is</em> like the precious ointment upon the head, that ran down upon the beard, <em>even</em> Aaron's beard: that went down to the skirts of his garments;"
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 133,
+      "verse": 3,
+      "text": "As the dew of Hermon, <em>and as the dew</em> that descended upon the mountains of Zion: for there the LORD commanded the blessing, <em>even</em> life for evermore."
+    }
+  ]
+}

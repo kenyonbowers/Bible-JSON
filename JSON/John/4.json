@@ -1,0 +1,383 @@
+{
+  "info": "",
+  "verses": [
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 1,
+      "text": "When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John,"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 2,
+      "text": "(Though Jesus himself baptized not, but his disciples,)"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 3,
+      "text": "He left Judaea, and departed again into Galilee."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 4,
+      "text": "And he must needs go through Samaria."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 5,
+      "text": "Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 6,
+      "text": "Now Jacob's well was there. Jesus therefore, being wearied with <em>his</em> journey, sat thus on the well: <em>and</em> it was about the sixth hour."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 7,
+      "text": "There cometh a woman of Samaria to draw water: Jesus saith unto her, <span style=\"color:red;\">Give me to drink.</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 8,
+      "text": "(For his disciples were gone away unto the city to buy meat.)"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 9,
+      "text": "Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 10,
+      "text": "Jesus answered and said unto her, <span style=\"color:red;\">If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water.</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 11,
+      "text": "The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep: from whence then hast thou that living water?"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 12,
+      "text": "Art thou greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 13,
+      "text": "Jesus answered and said unto her, <span style=\"color:red;\">Whosoever drinketh of this water shall thirst again:</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 14,
+      "text": "<span style=\"color:red;\">But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 15,
+      "text": "The woman saith unto him, Sir, give me this water, that I thirst not, neither come hither to draw."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 16,
+      "text": "Jesus saith unto her, <span style=\"color:red;\">Go, call thy husband, and come hither.</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 17,
+      "text": "The woman answered and said, I have no husband. Jesus said unto her, <span style=\"color:red;\">Thou hast well said, I have no husband:</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 18,
+      "text": "<span style=\"color:red;\">For thou hast had five husbands; and he whom thou now hast is not thy husband: in that saidst thou truly.</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 19,
+      "text": "The woman saith unto him, Sir, I perceive that thou art a prophet."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 20,
+      "text": "Our fathers worshipped in this mountain; and ye say, that in Jerusalem is the place where men ought to worship."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 21,
+      "text": "Jesus saith unto her, <span style=\"color:red;\">Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father.</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 22,
+      "text": "<span style=\"color:red;\">Ye worship ye know not what: we know what we worship: for salvation is of the Jews.</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 23,
+      "text": "<span style=\"color:red;\">But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him.</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 24,
+      "text": "<span style=\"color:red;\">God <em>is</em> a Spirit: and they that worship him must worship <em>him</em> in spirit and in truth.</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 25,
+      "text": "The woman saith unto him, I know that Messias cometh, which is called Christ: when he is come, he will tell us all things."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 26,
+      "text": "Jesus saith unto her, <span style=\"color:red;\">I that speak unto thee am <em>he</em>.</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 27,
+      "text": "And upon this came his disciples, and marvelled that he talked with the woman: yet no man said, What seekest thou? or, Why talkest thou with her?"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 28,
+      "text": "The woman then left her waterpot, and went her way into the city, and saith to the men,"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 29,
+      "text": "Come, see a man, which told me all things that ever I did: is not this the Christ?"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 30,
+      "text": "Then they went out of the city, and came unto him."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 31,
+      "text": "In the mean while his disciples prayed him, saying, Master, eat."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 32,
+      "text": "But he said unto them, <span style=\"color:red;\">I have meat to eat that ye know not of.</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 33,
+      "text": "Therefore said the disciples one to another, Hath any man brought him <em>ought</em> to eat?"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 34,
+      "text": "Jesus saith unto them, <span style=\"color:red;\">My meat is to do the will of him that sent me, and to finish his work.</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 35,
+      "text": "<span style=\"color:red;\">Say not ye, There are yet four months, and <em>then</em> cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest.</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 36,
+      "text": "<span style=\"color:red;\">And he that reapeth receiveth wages, and gathereth fruit unto life eternal: that both he that soweth and he that reapeth may rejoice together.</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 37,
+      "text": "<span style=\"color:red;\">And herein is that saying true, One soweth, and another reapeth.</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 38,
+      "text": "<span style=\"color:red;\">I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours.</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 39,
+      "text": "And many of the Samaritans of that city believed on him for the saying of the woman, which testified, He told me all that ever I did."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 40,
+      "text": "So when the Samaritans were come unto him, they besought him that he would tarry with them: and he abode there two days."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 41,
+      "text": "And many more believed because of his own word;"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 42,
+      "text": "And said unto the woman, Now we believe, not because of thy saying: for we have heard <em>him</em> ourselves, and know that this is indeed the Christ, the Saviour of the world."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 43,
+      "text": "Now after two days he departed thence, and went into Galilee."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 44,
+      "text": "For Jesus himself testified, that a prophet hath no honour in his own country."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 45,
+      "text": "Then when he was come into Galilee, the Galilaeans received him, having seen all the things that he did at Jerusalem at the feast: for they also went unto the feast."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 46,
+      "text": "So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 47,
+      "text": "When he heard that Jesus was come out of Judaea into Galilee, he went unto him, and besought him that he would come down, and heal his son: for he was at the point of death."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 48,
+      "text": "Then said Jesus unto him, <span style=\"color:red;\">Except ye see signs and wonders, ye will not believe.</span>"
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 49,
+      "text": "The nobleman saith unto him, Sir, come down ere my child die."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 50,
+      "text": "Jesus saith unto him, <span style=\"color:red;\">Go thy way; thy son liveth.</span> And the man believed the word that Jesus had spoken unto him, and he went his way."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 51,
+      "text": "And as he was now going down, his servants met him, and told <em>him</em>, saying, Thy son liveth."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 52,
+      "text": "Then enquired he of them the hour when he began to amend. And they said unto him, Yesterday at the seventh hour the fever left him."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 53,
+      "text": "So the father knew that <em>it was</em> at the same hour, in the which Jesus said unto him, <span style=\"color:red;\">Thy son liveth:</span> and himself believed, and his whole house."
+    },
+    {
+      "book_id": "JHN",
+      "book_name": "John",
+      "chapter": 4,
+      "verse": 54,
+      "text": "This <em>is</em> again the second miracle <em>that</em> Jesus did, when he was come out of Judaea into Galilee."
+    }
+  ]
+}

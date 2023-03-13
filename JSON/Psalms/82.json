@@ -1,0 +1,61 @@
+{
+  "info": "(A Psalm of Asaph.)",
+  "verses": [
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 82,
+      "verse": 1,
+      "text": "God standeth in the congregation of the mighty; he judgeth among the gods."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 82,
+      "verse": 2,
+      "text": "How long will ye judge unjustly, and accept the persons of the wicked? Selah."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 82,
+      "verse": 3,
+      "text": "Defend the poor and fatherless: do justice to the afflicted and needy."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 82,
+      "verse": 4,
+      "text": "Deliver the poor and needy: rid <em>them</em> out of the hand of the wicked."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 82,
+      "verse": 5,
+      "text": "They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 82,
+      "verse": 6,
+      "text": "I have said, Ye <em>are</em> gods; and all of you <em>are</em> children of the most High."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 82,
+      "verse": 7,
+      "text": "But ye shall die like men, and fall like one of the princes."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 82,
+      "verse": 8,
+      "text": "Arise, O God, judge the earth: for thou shalt inherit all nations."
+    }
+  ]
+}

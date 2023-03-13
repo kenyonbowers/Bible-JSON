@@ -1,0 +1,40 @@
+{
+  "info": "",
+  "verses": [
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 93,
+      "verse": 1,
+      "text": "The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, <em>wherewith</em> he hath girded himself: the world also is stablished, that it cannot be moved."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 93,
+      "verse": 2,
+      "text": "Thy throne <em>is</em> established of old: thou <em>art</em> from everlasting."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 93,
+      "verse": 3,
+      "text": "The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their waves."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 93,
+      "verse": 4,
+      "text": "The LORD on high <em>is</em> mightier than the noise of many waters, <em>yea, than</em> the mighty waves of the sea."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 93,
+      "verse": 5,
+      "text": "Thy testimonies are very sure: holiness becometh thine house, O LORD, for ever."
+    }
+  ]
+}

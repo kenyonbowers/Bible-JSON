@@ -1,0 +1,383 @@
+{
+  "info": "",
+  "verses": [
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 1,
+      "text": "Adam, Sheth, Enosh,"
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 2,
+      "text": "Kenan, Mahalaleel, Jered,"
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 3,
+      "text": "Henoch, Methuselah, Lamech,"
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 4,
+      "text": "Noah, Shem, Ham, and Japheth."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 5,
+      "text": "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 6,
+      "text": "And the sons of Gomer; Ashchenaz, and Riphath, and Togarmah."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 7,
+      "text": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 8,
+      "text": "The sons of Ham; Cush, and Mizraim, Put, and Canaan."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 9,
+      "text": "And the sons of Cush; Seba, and Havilah, and Sabta, and Raamah, and Sabtecha. And the sons of Raamah; Sheba, and Dedan."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 10,
+      "text": "And Cush begat Nimrod: he began to be mighty upon the earth."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 11,
+      "text": "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,"
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 12,
+      "text": "And Pathrusim, and Casluhim, (of whom came the Philistines,) and Caphthorim."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 13,
+      "text": "And Canaan begat Zidon his firstborn, and Heth,"
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 14,
+      "text": "The Jebusite also, and the Amorite, and the Girgashite,"
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 15,
+      "text": "And the Hivite, and the Arkite, and the Sinite,"
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 16,
+      "text": "And the Arvadite, and the Zemarite, and the Hamathite."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 17,
+      "text": "The sons of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram, and Uz, and Hul, and Gether, and Meshech."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 18,
+      "text": "And Arphaxad begat Shelah, and Shelah begat Eber."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 19,
+      "text": "And unto Eber were born two sons: the name of the one <em>was</em> Peleg; because in his days the earth was divided: and his brother's name <em>was</em> Joktan."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 20,
+      "text": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,"
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 21,
+      "text": "Hadoram also, and Uzal, and Diklah,"
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 22,
+      "text": "And Ebal, and Abimael, and Sheba,"
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 23,
+      "text": "And Ophir, and Havilah, and Jobab. All these <em>were</em> the sons of Joktan."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 24,
+      "text": "Shem, Arphaxad, Shelah,"
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 25,
+      "text": "Eber, Peleg, Reu,"
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 26,
+      "text": "Serug, Nahor, Terah,"
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 27,
+      "text": "Abram; the same <em>is</em> Abraham."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 28,
+      "text": "The sons of Abraham; Isaac, and Ishmael."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 29,
+      "text": "These <em>are</em> their generations: The firstborn of Ishmael, Nebaioth; then Kedar, and Adbeel, and Mibsam,"
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 30,
+      "text": "Mishma, and Dumah, Massa, Hadad, and Tema,"
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 31,
+      "text": "Jetur, Naphish, and Kedemah. These are the sons of Ishmael."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 32,
+      "text": "Now the sons of Keturah, Abraham's concubine: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And the sons of Jokshan; Sheba, and Dedan."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 33,
+      "text": "And the sons of Midian; Ephah, and Epher, and Henoch, and Abida, and Eldaah. All these <em>are</em> the sons of Keturah."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 34,
+      "text": "And Abraham begat Isaac. The sons of Isaac; Esau and Israel."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 35,
+      "text": "The sons of Esau; Eliphaz, Reuel, and Jeush, and Jaalam, and Korah."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 36,
+      "text": "The sons of Eliphaz; Teman, and Omar, Zephi, and Gatam, Kenaz, and Timna, and Amalek."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 37,
+      "text": "The sons of Reuel; Nahath, Zerah, Shammah, and Mizzah."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 38,
+      "text": "And the sons of Seir; Lotan, and Shobal, and Zibeon, and Anah, and Dishon, and Ezer, and Dishan."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 39,
+      "text": "And the sons of Lotan; Hori, and Homam: and Timna <em>was</em> Lotan's sister."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 40,
+      "text": "The sons of Shobal; Alian, and Manahath, and Ebal, Shephi, and Onam. And the sons of Zibeon; Aiah, and Anah."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 41,
+      "text": "The sons of Anah; Dishon. And the sons of Dishon; Amram, and Eshban, and Ithran, and Cheran."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 42,
+      "text": "The sons of Ezer; Bilhan, and Zavan, <em>and</em> Jakan. The sons of Dishan; Uz, and Aran."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 43,
+      "text": "Now these <em>are</em> the kings that reigned in the land of Edom before <em>any</em> king reigned over the children of Israel; Bela the son of Beor: and the name of his city <em>was</em> Dinhabah."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 44,
+      "text": "And when Bela was dead, Jobab the son of Zerah of Bozrah reigned in his stead."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 45,
+      "text": "And when Jobab was dead, Husham of the land of the Temanites reigned in his stead."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 46,
+      "text": "And when Husham was dead, Hadad the son of Bedad, which smote Midian in the field of Moab, reigned in his stead: and the name of his city <em>was</em> Avith."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 47,
+      "text": "And when Hadad was dead, Samlah of Masrekah reigned in his stead."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 48,
+      "text": "And when Samlah was dead, Shaul of Rehoboth by the river reigned in his stead."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 49,
+      "text": "And when Shaul was dead, Baalhanan the son of Achbor reigned in his stead."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 50,
+      "text": "And when Baalhanan was dead, Hadad reigned in his stead: and the name of his city <em>was</em> Pai; and his wife's name <em>was</em> Mehetabel, the daughter of Matred, the daughter of Mezahab."
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 51,
+      "text": "Hadad died also. And the dukes of Edom were; duke Timnah, duke Aliah, duke Jetheth,"
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 52,
+      "text": "Duke Aholibamah, duke Elah, duke Pinon,"
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 53,
+      "text": "Duke Kenaz, duke Teman, duke Mibzar,"
+    },
+    {
+      "book_id": "1CH",
+      "book_name": "1 Chronicles",
+      "chapter": 1,
+      "verse": 54,
+      "text": "Duke Magdiel, duke Iram. These <em>are</em> the dukes of Edom."
+    }
+  ]
+}

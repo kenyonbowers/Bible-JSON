@@ -1,0 +1,68 @@
+{
+  "info": "(<em>A Psalm</em> of David.)",
+  "verses": [
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 28,
+      "verse": 1,
+      "text": "Unto thee will I cry, O LORD my rock; be not silent to me: lest, <em>if</em> thou be silent to me, I become like them that go down into the pit."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 28,
+      "verse": 2,
+      "text": "Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 28,
+      "verse": 3,
+      "text": "Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief <em>is</em> in their hearts."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 28,
+      "verse": 4,
+      "text": "Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 28,
+      "verse": 5,
+      "text": "Because they regard not the works of the LORD, nor the operation of his hands, he shall destroy them, and not build them up."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 28,
+      "verse": 6,
+      "text": "Blessed <em>be</em> the LORD, because he hath heard the voice of my supplications."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 28,
+      "verse": 7,
+      "text": "The LORD <em>is</em> my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 28,
+      "verse": 8,
+      "text": "The LORD <em>is</em> their strength, and he <em>is</em> the saving strength of his anointed."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 28,
+      "verse": 9,
+      "text": "Save thy people, and bless thine inheritance: feed them also, and lift them up for ever."
+    }
+  ]
+}

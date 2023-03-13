@@ -1,0 +1,61 @@
+{
+  "info": "(A Song of degrees.)",
+  "verses": [
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 129,
+      "verse": 1,
+      "text": "Many a time have they afflicted me from my youth, may Israel now say:"
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 129,
+      "verse": 2,
+      "text": "Many a time have they afflicted me from my youth: yet they have not prevailed against me."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 129,
+      "verse": 3,
+      "text": "The plowers plowed upon my back: they made long their furrows."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 129,
+      "verse": 4,
+      "text": "The LORD <em>is</em> righteous: he hath cut asunder the cords of the wicked."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 129,
+      "verse": 5,
+      "text": "Let them all be confounded and turned back that hate Zion."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 129,
+      "verse": 6,
+      "text": "Let them be as the grass <em>upon</em> the housetops, which withereth afore it groweth up:"
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 129,
+      "verse": 7,
+      "text": "Wherewith the mower filleth not his hand; nor he that bindeth sheaves his bosom."
+    },
+    {
+      "book_id": "PSA",
+      "book_name": "Psalms",
+      "chapter": 129,
+      "verse": 8,
+      "text": "Neither do they which go by say, The blessing of the LORD <em>be</em> upon you: we bless you in the name of the LORD."
+    }
+  ]
+}
