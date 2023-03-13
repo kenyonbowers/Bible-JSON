@@ -12,12 +12,13 @@ This is what it would look like if you were to open up `./JSON/Psalms/3.json`.
             "book_name": "Psalms",
             "chapter": 3,
             "verse": 1,
-            "text": "Psalms 3:1 - LORD, how are they increased that trouble me! many are they that rise up against me."
+            "text": "LORD, how are they increased that trouble me! many <em>are</em> they that rise up against me."
         },
         ...
     ]
 }
 ```
+## How it to use:
 `info` is a string of additional information about the chapter, such as "A Psalm of David" above a Psalm. I don't believe any chapters outside of the Psalms use this but I may be wrong.
 
 `verses` is an object array. Inside `verses` are object with these:
