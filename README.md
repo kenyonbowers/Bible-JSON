@@ -1,7 +1,7 @@
 # Bible-JSON
 The Bible in JSON format.
 
-# Structure:
+## Structure:
 This is what it would look like if you were to open up `./JSON/Psalms/3.json`.
 ```json
 {
