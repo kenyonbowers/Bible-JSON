@@ -34,7 +34,7 @@
       "book_name": "Luke",
       "chapter": 16,
       "verse": 5,
-      "text": "<span style=\"color:red;\">So he called every one of his lord's debtors <em>unto him</em>, and said unto the first, How much owest thou unto my lord?</span>"
+      "text": "<span style=\"color:red;\">So he called every one of his lord's debtors <em>unto him,</em> and said unto the first, How much owest thou unto my lord?</span>"
     },
     {
       "book_id": "LUK",
@@ -76,7 +76,7 @@
       "book_name": "Luke",
       "chapter": 16,
       "verse": 11,
-      "text": "<span style=\"color:red;\">If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true <em>riches</em>?</span>"
+      "text": "<span style=\"color:red;\">If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true <em>riches?</em></span>"
     },
     {
       "book_id": "LUK",

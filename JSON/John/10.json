@@ -97,7 +97,7 @@
       "book_name": "John",
       "chapter": 10,
       "verse": 14,
-      "text": "<span style=\"color:red;\">I am the good shepherd, and know my <em>sheep</em>, and am known of mine.</span>"
+      "text": "<span style=\"color:red;\">I am the good shepherd, and know my <em>sheep,</em> and am known of mine.</span>"
     },
     {
       "book_id": "JHN",

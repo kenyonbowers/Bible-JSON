@@ -62,7 +62,7 @@
       "book_name": "Philemon",
       "chapter": 1,
       "verse": 9,
-      "text": "Yet for love's sake I rather beseech <em>thee</em>, being such an one as Paul the aged, and now also a prisoner of Jesus Christ."
+      "text": "Yet for love's sake I rather beseech <em>thee,</em> being such an one as Paul the aged, and now also a prisoner of Jesus Christ."
     },
     {
       "book_id": "PHM",
@@ -132,7 +132,7 @@
       "book_name": "Philemon",
       "chapter": 1,
       "verse": 19,
-      "text": "I Paul have written <em>it</em> with mine own hand, I will repay <em>it</em>: albeit I do not say to thee how thou owest unto me even thine own self besides."
+      "text": "I Paul have written <em>it</em> with mine own hand, I will repay <em>it:</em> albeit I do not say to thee how thou owest unto me even thine own self besides."
     },
     {
       "book_id": "PHM",
@@ -174,7 +174,7 @@
       "book_name": "Philemon",
       "chapter": 1,
       "verse": 25,
-      "text": "The grace of our Lord Jesus Christ <em>be</em> with your spirit. Amen."
+      "text": "The grace of our Lord Jesus Christ <em>be</em> with your spirit. Amen. (<em>Written from Rome to Philemon, by Onesimus a servant.</em>)"
     }
   ]
 }

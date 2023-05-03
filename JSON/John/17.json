@@ -55,7 +55,7 @@
       "book_name": "John",
       "chapter": 17,
       "verse": 8,
-      "text": "<span style=\"color:red;\">For I have given unto them the words which thou gavest me; and they have received <em>them</em>, and have known surely that I came out from thee, and they have believed that thou didst send me.</span>"
+      "text": "<span style=\"color:red;\">For I have given unto them the words which thou gavest me; and they have received <em>them,</em> and have known surely that I came out from thee, and they have believed that thou didst send me.</span>"
     },
     {
       "book_id": "JHN",
@@ -76,7 +76,7 @@
       "book_name": "John",
       "chapter": 17,
       "verse": 11,
-      "text": "<span style=\"color:red;\">And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we <em>are</em>.</span>"
+      "text": "<span style=\"color:red;\">And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we <em>are.</em></span>"
     },
     {
       "book_id": "JHN",
@@ -181,7 +181,7 @@
       "book_name": "John",
       "chapter": 17,
       "verse": 26,
-      "text": "<span style=\"color:red;\">And I have declared unto them thy name, and will declare <em>it</em>: that the love wherewith thou hast loved me may be in them, and I in them.</span>"
+      "text": "<span style=\"color:red;\">And I have declared unto them thy name, and will declare <em>it:</em> that the love wherewith thou hast loved me may be in them, and I in them.</span>"
     }
   ]
 }

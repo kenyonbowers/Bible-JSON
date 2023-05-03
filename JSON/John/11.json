@@ -27,7 +27,7 @@
       "book_name": "John",
       "chapter": 11,
       "verse": 4,
-      "text": "When Jesus heard <em>that</em>, he said, <span style=\"color:red;\">This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.</span>"
+      "text": "When Jesus heard <em>that,</em> he said, <span style=\"color:red;\">This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.</span>"
     },
     {
       "book_id": "JHN",
@@ -202,7 +202,7 @@
       "book_name": "John",
       "chapter": 11,
       "verse": 29,
-      "text": "As soon as she heard <em>that</em>, she arose quickly, and came unto him."
+      "text": "As soon as she heard <em>that,</em> she arose quickly, and came unto him."
     },
     {
       "book_id": "JHN",
@@ -293,7 +293,7 @@
       "book_name": "John",
       "chapter": 11,
       "verse": 42,
-      "text": "<span style=\"color:red;\">And I knew that thou hearest me always: but because of the people which stand by I said <em>it</em>, that they may believe that thou hast sent me.</span>"
+      "text": "<span style=\"color:red;\">And I knew that thou hearest me always: but because of the people which stand by I said <em>it,</em> that they may believe that thou hast sent me.</span>"
     },
     {
       "book_id": "JHN",
@@ -398,7 +398,7 @@
       "book_name": "John",
       "chapter": 11,
       "verse": 57,
-      "text": "Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew <em>it</em>, that they might take him."
+      "text": "Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew <em>it,</em> that they might take him."
     }
   ]
 }

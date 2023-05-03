@@ -181,7 +181,7 @@
       "book_name": "John",
       "chapter": 4,
       "verse": 26,
-      "text": "Jesus saith unto her, <span style=\"color:red;\">I that speak unto thee am <em>he</em>.</span>"
+      "text": "Jesus saith unto her, <span style=\"color:red;\">I that speak unto thee am <em>he.</em></span>"
     },
     {
       "book_id": "JHN",
@@ -356,7 +356,7 @@
       "book_name": "John",
       "chapter": 4,
       "verse": 51,
-      "text": "And as he was now going down, his servants met him, and told <em>him</em>, saying, Thy son liveth."
+      "text": "And as he was now going down, his servants met him, and told <em>him,</em> saying, Thy son liveth."
     },
     {
       "book_id": "JHN",

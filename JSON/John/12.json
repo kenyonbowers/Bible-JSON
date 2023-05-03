@@ -27,7 +27,7 @@
       "book_name": "John",
       "chapter": 12,
       "verse": 4,
-      "text": "Then saith one of his disciples, Judas Iscariot, Simon's <em>son</em>, which should betray him,"
+      "text": "Then saith one of his disciples, Judas Iscariot, Simon's <em>son,</em> which should betray him,"
     },
     {
       "book_id": "JHN",
@@ -195,14 +195,14 @@
       "book_name": "John",
       "chapter": 12,
       "verse": 28,
-      "text": "<span style=\"color:red;\">Father, glorify thy name.</span> Then came there a voice from heaven, <em>saying</em>, I have both glorified <em>it</em>, and will glorify <em>it</em> again."
+      "text": "<span style=\"color:red;\">Father, glorify thy name.</span> Then came there a voice from heaven, <em>saying,</em> I have both glorified <em>it,</em> and will glorify <em>it</em> again."
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 12,
       "verse": 29,
-      "text": "The people therefore, that stood by, and heard <em>it</em>, said that it thundered: others said, An angel spake to him."
+      "text": "The people therefore, that stood by, and heard <em>it,</em> said that it thundered: others said, An angel spake to him."
     },
     {
       "book_id": "JHN",
@@ -293,7 +293,7 @@
       "book_name": "John",
       "chapter": 12,
       "verse": 42,
-      "text": "Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess <em>him</em>, lest they should be put out of the synagogue:"
+      "text": "Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess <em>him,</em> lest they should be put out of the synagogue:"
     },
     {
       "book_id": "JHN",

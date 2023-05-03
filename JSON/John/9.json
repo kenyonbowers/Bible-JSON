@@ -62,7 +62,7 @@
       "book_name": "John",
       "chapter": 9,
       "verse": 9,
-      "text": "Some said, This is he: others <em>said</em>, He is like him: <em>but</em> he said, I am <em>he</em>."
+      "text": "Some said, This is he: others <em>said,</em> He is like him: <em>but</em> he said, I am <em>he.</em>"
     },
     {
       "book_id": "JHN",
@@ -174,7 +174,7 @@
       "book_name": "John",
       "chapter": 9,
       "verse": 25,
-      "text": "He answered and said, Whether he be a sinner <em>or no</em>, I know not: one thing I know, that, whereas I was blind, now I see."
+      "text": "He answered and said, Whether he be a sinner <em>or no,</em> I know not: one thing I know, that, whereas I was blind, now I see."
     },
     {
       "book_id": "JHN",
@@ -202,7 +202,7 @@
       "book_name": "John",
       "chapter": 9,
       "verse": 29,
-      "text": "We know that God spake unto Moses: <em>as for</em> this <em>fellow</em>, we know not from whence he is."
+      "text": "We know that God spake unto Moses: <em>as for</em> this <em>fellow,</em> we know not from whence he is."
     },
     {
       "book_id": "JHN",

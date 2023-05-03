@@ -6,7 +6,7 @@
       "book_name": "Luke",
       "chapter": 17,
       "verse": 1,
-      "text": "Then said he unto the disciples, <span style=\"color:red;\">It is impossible but that offences will come: but woe <em>unto him</em>, through whom they come!</span>"
+      "text": "Then said he unto the disciples, <span style=\"color:red;\">It is impossible but that offences will come: but woe <em>unto him,</em> through whom they come!</span>"
     },
     {
       "book_id": "LUK",
@@ -97,7 +97,7 @@
       "book_name": "Luke",
       "chapter": 17,
       "verse": 14,
-      "text": "And when he saw <em>them</em>, he said unto them, <span style=\"color:red;\">Go shew yourselves unto the priests.</span> And it came to pass, that, as they went, they were cleansed."
+      "text": "And when he saw <em>them,</em> he said unto them, <span style=\"color:red;\">Go shew yourselves unto the priests.</span> And it came to pass, that, as they went, they were cleansed."
     },
     {
       "book_id": "LUK",
@@ -153,14 +153,14 @@
       "book_name": "Luke",
       "chapter": 17,
       "verse": 22,
-      "text": "And he said unto the disciples, <span style=\"color:red;\">The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see <em>it</em>.</span>"
+      "text": "And he said unto the disciples, <span style=\"color:red;\">The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see <em>it.</em></span>"
     },
     {
       "book_id": "LUK",
       "book_name": "Luke",
       "chapter": 17,
       "verse": 23,
-      "text": "<span style=\"color:red;\">And they shall say to you, See here; or, see there: go not after <em>them</em>, nor follow <em>them</em>.</span>"
+      "text": "<span style=\"color:red;\">And they shall say to you, See here; or, see there: go not after <em>them,</em> nor follow <em>them.</em></span>"
     },
     {
       "book_id": "LUK",
@@ -258,7 +258,7 @@
       "book_name": "Luke",
       "chapter": 17,
       "verse": 37,
-      "text": "And they answered and said unto him, Where, Lord? And he said unto them, <span style=\"color:red;\">Wheresoever the body <em>is</em>, thither will the eagles be gathered together.</span>"
+      "text": "And they answered and said unto him, Where, Lord? And he said unto them, <span style=\"color:red;\">Wheresoever the body <em>is,</em> thither will the eagles be gathered together.</span>"
     }
   ]
 }

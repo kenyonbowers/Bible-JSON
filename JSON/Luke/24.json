@@ -209,7 +209,7 @@
       "book_name": "Luke",
       "chapter": 24,
       "verse": 30,
-      "text": "And it came to pass, as he sat at meat with them, he took bread, and blessed <em>it</em>, and brake, and gave to them."
+      "text": "And it came to pass, as he sat at meat with them, he took bread, and blessed <em>it,</em> and brake, and gave to them."
     },
     {
       "book_id": "LUK",
@@ -300,7 +300,7 @@
       "book_name": "Luke",
       "chapter": 24,
       "verse": 43,
-      "text": "And he took <em>it</em>, and did eat before them."
+      "text": "And he took <em>it,</em> and did eat before them."
     },
     {
       "book_id": "LUK",

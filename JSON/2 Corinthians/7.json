@@ -20,7 +20,7 @@
       "book_name": "2 Corinthians",
       "chapter": 7,
       "verse": 3,
-      "text": "I speak not <em>this</em> to condemn <em>you</em>: for I have said before, that ye are in our hearts to die and live with <em>you</em>."
+      "text": "I speak not <em>this</em> to condemn <em>you:</em> for I have said before, that ye are in our hearts to die and live with <em>you.</em>"
     },
     {
       "book_id": "2CO",
@@ -111,7 +111,7 @@
       "book_name": "2 Corinthians",
       "chapter": 7,
       "verse": 16,
-      "text": "I rejoice therefore that I have confidence in you in all <em>things</em>."
+      "text": "I rejoice therefore that I have confidence in you in all <em>things.</em>"
     }
   ]
 }

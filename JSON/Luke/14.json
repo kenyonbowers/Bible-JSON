@@ -27,7 +27,7 @@
       "book_name": "Luke",
       "chapter": 14,
       "verse": 4,
-      "text": "And they held their peace. And he took <em>him</em>, and healed him, and let him go;"
+      "text": "And they held their peace. And he took <em>him,</em> and healed him, and let him go;"
     },
     {
       "book_id": "LUK",
@@ -195,14 +195,14 @@
       "book_name": "Luke",
       "chapter": 14,
       "verse": 28,
-      "text": "<span style=\"color:red;\">For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have <em>sufficient</em> to finish <em>it</em>?</span>"
+      "text": "<span style=\"color:red;\">For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have <em>sufficient</em> to finish <em>it?</em></span>"
     },
     {
       "book_id": "LUK",
       "book_name": "Luke",
       "chapter": 14,
       "verse": 29,
-      "text": "<span style=\"color:red;\">Lest haply, after he hath laid the foundation, and is not able to finish <em>it</em>, all that behold <em>it</em> begin to mock him,</span>"
+      "text": "<span style=\"color:red;\">Lest haply, after he hath laid the foundation, and is not able to finish <em>it,</em> all that behold <em>it</em> begin to mock him,</span>"
     },
     {
       "book_id": "LUK",

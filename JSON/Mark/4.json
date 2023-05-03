@@ -139,7 +139,7 @@
       "book_name": "Mark",
       "chapter": 4,
       "verse": 20,
-      "text": "<span style=\"color:red;\">And these are they which are sown on good ground; such as hear the word, and receive <em>it</em>, and bring forth fruit, some thirtyfold, some sixty, and some an hundred.</span>"
+      "text": "<span style=\"color:red;\">And these are they which are sown on good ground; such as hear the word, and receive <em>it,</em> and bring forth fruit, some thirtyfold, some sixty, and some an hundred.</span>"
     },
     {
       "book_id": "MRK",
@@ -230,7 +230,7 @@
       "book_name": "Mark",
       "chapter": 4,
       "verse": 33,
-      "text": "And with many such parables spake he the word unto them, as they were able to hear <em>it</em>."
+      "text": "And with many such parables spake he the word unto them, as they were able to hear <em>it.</em>"
     },
     {
       "book_id": "MRK",
