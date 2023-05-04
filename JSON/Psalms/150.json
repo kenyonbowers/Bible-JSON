@@ -6,42 +6,48 @@
       "book_name": "Psalms",
       "chapter": 150,
       "verse": 1,
-      "text": "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power."
+      "text": "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 150,
       "verse": 2,
-      "text": "Praise him for his mighty acts: praise him according to his excellent greatness."
+      "text": "Praise him for his mighty acts: praise him according to his excellent greatness.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 150,
       "verse": 3,
-      "text": "Praise him with the sound of the trumpet: praise him with the psaltery and harp."
+      "text": "Praise him with the sound of the trumpet: praise him with the psaltery and harp.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 150,
       "verse": 4,
-      "text": "Praise him with the timbrel and dance: praise him with stringed instruments and organs."
+      "text": "Praise him with the timbrel and dance: praise him with stringed instruments and organs.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 150,
       "verse": 5,
-      "text": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals."
+      "text": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 150,
       "verse": 6,
-      "text": "Let every thing that hath breath praise the LORD. Praise ye the LORD."
+      "text": "Let every thing that hath breath praise the LORD. Praise ye the LORD.",
+      "info": ""
     }
   ]
 }

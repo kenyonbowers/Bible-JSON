@@ -6,42 +6,48 @@
       "book_name": "Psalms",
       "chapter": 128,
       "verse": 1,
-      "text": "Blessed <em>is</em> every one that feareth the LORD; that walketh in his ways."
+      "text": "Blessed <em>is</em> every one that feareth the LORD; that walketh in his ways.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 128,
       "verse": 2,
-      "text": "For thou shalt eat the labour of thine hands: happy <em>shalt</em> thou <em>be,</em> and <em>it shall be</em> well with thee."
+      "text": "For thou shalt eat the labour of thine hands: happy <em>shalt</em> thou <em>be,</em> and <em>it shall be</em> well with thee.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 128,
       "verse": 3,
-      "text": "Thy wife <em>shall be</em> as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table."
+      "text": "Thy wife <em>shall be</em> as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 128,
       "verse": 4,
-      "text": "Behold, that thus shall the man be blessed that feareth the LORD."
+      "text": "Behold, that thus shall the man be blessed that feareth the LORD.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 128,
       "verse": 5,
-      "text": "The LORD shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life."
+      "text": "The LORD shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 128,
       "verse": 6,
-      "text": "Yea, thou shalt see thy children's children, <em>and</em> peace upon Israel."
+      "text": "Yea, thou shalt see thy children's children, <em>and</em> peace upon Israel.",
+      "info": ""
     }
   ]
 }

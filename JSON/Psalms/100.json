@@ -6,35 +6,40 @@
       "book_name": "Psalms",
       "chapter": 100,
       "verse": 1,
-      "text": "Make a joyful noise unto the LORD, all ye lands."
+      "text": "Make a joyful noise unto the LORD, all ye lands.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 100,
       "verse": 2,
-      "text": "Serve the LORD with gladness: come before his presence with singing."
+      "text": "Serve the LORD with gladness: come before his presence with singing.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 100,
       "verse": 3,
-      "text": "Know ye that the LORD he <em>is</em> God: <em>it is</em> he <em>that</em> hath made us, and not we ourselves; <em>we are</em> his people, and the sheep of his pasture."
+      "text": "Know ye that the LORD he <em>is</em> God: <em>it is</em> he <em>that</em> hath made us, and not we ourselves; <em>we are</em> his people, and the sheep of his pasture.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 100,
       "verse": 4,
-      "text": "Enter into his gates with thanksgiving, <em>and</em> into his courts with praise: be thankful unto him, <em>and</em> bless his name."
+      "text": "Enter into his gates with thanksgiving, <em>and</em> into his courts with praise: be thankful unto him, <em>and</em> bless his name.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 100,
       "verse": 5,
-      "text": "For the LORD <em>is</em> good; his mercy <em>is</em> everlasting; and his truth <em>endureth</em> to all generations."
+      "text": "For the LORD <em>is</em> good; his mercy <em>is</em> everlasting; and his truth <em>endureth</em> to all generations.",
+      "info": ""
     }
   ]
 }

@@ -6,252 +6,288 @@
       "book_name": "John",
       "chapter": 3,
       "verse": 1,
-      "text": "There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:"
+      "text": "There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 2,
-      "text": "The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him."
+      "text": "The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 3,
-      "text": "Jesus answered and said unto him, <span style=\"color:red;\">Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.</span>"
+      "text": "Jesus answered and said unto him, <span style=\"color:red;\">Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.</span>",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 4,
-      "text": "Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother's womb, and be born?"
+      "text": "Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother's womb, and be born?",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 5,
-      "text": "Jesus answered, <span style=\"color:red;\">Verily, verily, I say unto thee, Except a man be born of water and <em>of</em> the Spirit, he cannot enter into the kingdom of God.</span>"
+      "text": "Jesus answered, <span style=\"color:red;\">Verily, verily, I say unto thee, Except a man be born of water and <em>of</em> the Spirit, he cannot enter into the kingdom of God.</span>",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 6,
-      "text": "<span style=\"color:red;\">That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.</span>"
+      "text": "<span style=\"color:red;\">That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.</span>",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 7,
-      "text": "<span style=\"color:red;\">Marvel not that I said unto thee, Ye must be born again.</span>"
+      "text": "<span style=\"color:red;\">Marvel not that I said unto thee, Ye must be born again.</span>",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 8,
-      "text": "<span style=\"color:red;\">The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.</span>"
+      "text": "<span style=\"color:red;\">The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.</span>",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 9,
-      "text": "Nicodemus answered and said unto him, How can these things be?"
+      "text": "Nicodemus answered and said unto him, How can these things be?",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 10,
-      "text": "Jesus answered and said unto him, <span style=\"color:red;\">Art thou a master of Israel, and knowest not these things?</span>"
+      "text": "Jesus answered and said unto him, <span style=\"color:red;\">Art thou a master of Israel, and knowest not these things?</span>",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 11,
-      "text": "<span style=\"color:red;\">Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.</span>"
+      "text": "<span style=\"color:red;\">Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.</span>",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 12,
-      "text": "<span style=\"color:red;\">If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you <em>of</em> heavenly things?</span>"
+      "text": "<span style=\"color:red;\">If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you <em>of</em> heavenly things?</span>",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 13,
-      "text": "<span style=\"color:red;\">And no man hath ascended up to heaven, but he that came down from heaven, <em>even</em> the Son of man which is in heaven.</span>"
+      "text": "<span style=\"color:red;\">And no man hath ascended up to heaven, but he that came down from heaven, <em>even</em> the Son of man which is in heaven.</span>",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 14,
-      "text": "<span style=\"color:red;\">And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:</span>"
+      "text": "<span style=\"color:red;\">And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:</span>",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 15,
-      "text": "<span style=\"color:red;\">That whosoever believeth in him should not perish, but have eternal life.</span>"
+      "text": "<span style=\"color:red;\">That whosoever believeth in him should not perish, but have eternal life.</span>",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 16,
-      "text": "<span style=\"color:red;\">For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.</span>"
+      "text": "<span style=\"color:red;\">For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.</span>",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 17,
-      "text": "<span style=\"color:red;\">For God sent not his Son into the world to condemn the world; but that the world through him might be saved.</span>"
+      "text": "<span style=\"color:red;\">For God sent not his Son into the world to condemn the world; but that the world through him might be saved.</span>",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 18,
-      "text": "<span style=\"color:red;\">He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God.</span>"
+      "text": "<span style=\"color:red;\">He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God.</span>",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 19,
-      "text": "<span style=\"color:red;\">And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.</span>"
+      "text": "<span style=\"color:red;\">And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.</span>",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 20,
-      "text": "<span style=\"color:red;\">For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.</span>"
+      "text": "<span style=\"color:red;\">For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.</span>",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 21,
-      "text": "<span style=\"color:red;\">But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God.</span>"
+      "text": "<span style=\"color:red;\">But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God.</span>",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 22,
-      "text": "After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized."
+      "text": "After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 23,
-      "text": "And John also was baptizing in Aenon near to Salim, because there was much water there: and they came, and were baptized."
+      "text": "And John also was baptizing in Aenon near to Salim, because there was much water there: and they came, and were baptized.",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 24,
-      "text": "For John was not yet cast into prison."
+      "text": "For John was not yet cast into prison.",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 25,
-      "text": "Then there arose a question between <em>some</em> of John's disciples and the Jews about purifying."
+      "text": "Then there arose a question between <em>some</em> of John's disciples and the Jews about purifying.",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 26,
-      "text": "And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all <em>men</em> come to him."
+      "text": "And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all <em>men</em> come to him.",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 27,
-      "text": "John answered and said, A man can receive nothing, except it be given him from heaven."
+      "text": "John answered and said, A man can receive nothing, except it be given him from heaven.",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 28,
-      "text": "Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him."
+      "text": "Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him.",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 29,
-      "text": "He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom's voice: this my joy therefore is fulfilled."
+      "text": "He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom's voice: this my joy therefore is fulfilled.",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 30,
-      "text": "He must increase, but I <em>must</em> decrease."
+      "text": "He must increase, but I <em>must</em> decrease.",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 31,
-      "text": "He that cometh from above is above all: he that is of the earth is earthly, and speaketh of the earth: he that cometh from heaven is above all."
+      "text": "He that cometh from above is above all: he that is of the earth is earthly, and speaketh of the earth: he that cometh from heaven is above all.",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 32,
-      "text": "And what he hath seen and heard, that he testifieth; and no man receiveth his testimony."
+      "text": "And what he hath seen and heard, that he testifieth; and no man receiveth his testimony.",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 33,
-      "text": "He that hath received his testimony hath set to his seal that God is true."
+      "text": "He that hath received his testimony hath set to his seal that God is true.",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 34,
-      "text": "For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure <em>unto him.</em>"
+      "text": "For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure <em>unto him.</em>",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 35,
-      "text": "The Father loveth the Son, and hath given all things into his hand."
+      "text": "The Father loveth the Son, and hath given all things into his hand.",
+      "info": ""
     },
     {
       "book_id": "JHN",
       "book_name": "John",
       "chapter": 3,
       "verse": 36,
-      "text": "He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him."
+      "text": "He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.",
+      "info": ""
     }
   ]
 }

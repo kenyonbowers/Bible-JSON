@@ -6,63 +6,72 @@
       "book_name": "Psalms",
       "chapter": 122,
       "verse": 1,
-      "text": "I was glad when they said unto me, Let us go into the house of the LORD."
+      "text": "I was glad when they said unto me, Let us go into the house of the LORD.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 122,
       "verse": 2,
-      "text": "Our feet shall stand within thy gates, O Jerusalem."
+      "text": "Our feet shall stand within thy gates, O Jerusalem.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 122,
       "verse": 3,
-      "text": "Jerusalem is builded as a city that is compact together:"
+      "text": "Jerusalem is builded as a city that is compact together:",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 122,
       "verse": 4,
-      "text": "Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD."
+      "text": "Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 122,
       "verse": 5,
-      "text": "For there are set thrones of judgment, the thrones of the house of David."
+      "text": "For there are set thrones of judgment, the thrones of the house of David.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 122,
       "verse": 6,
-      "text": "Pray for the peace of Jerusalem: they shall prosper that love thee."
+      "text": "Pray for the peace of Jerusalem: they shall prosper that love thee.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 122,
       "verse": 7,
-      "text": "Peace be within thy walls, <em>and</em> prosperity within thy palaces."
+      "text": "Peace be within thy walls, <em>and</em> prosperity within thy palaces.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 122,
       "verse": 8,
-      "text": "For my brethren and companions' sakes, I will now say, Peace <em>be</em> within thee."
+      "text": "For my brethren and companions' sakes, I will now say, Peace <em>be</em> within thee.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 122,
       "verse": 9,
-      "text": "Because of the house of the LORD our God I will seek thy good."
+      "text": "Because of the house of the LORD our God I will seek thy good.",
+      "info": ""
     }
   ]
 }

@@ -6,35 +6,40 @@
       "book_name": "Psalms",
       "chapter": 15,
       "verse": 1,
-      "text": "LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill?"
+      "text": "LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 15,
       "verse": 2,
-      "text": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart."
+      "text": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 15,
       "verse": 3,
-      "text": "<em>He that</em> backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour."
+      "text": "<em>He that</em> backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 15,
       "verse": 4,
-      "text": "In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. <em>He that</em> sweareth to <em>his own</em> hurt, and changeth not."
+      "text": "In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. <em>He that</em> sweareth to <em>his own</em> hurt, and changeth not.",
+      "info": ""
     },
     {
       "book_id": "PSA",
       "book_name": "Psalms",
       "chapter": 15,
       "verse": 5,
-      "text": "<em>He that</em> putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these <em>things</em> shall never be moved."
+      "text": "<em>He that</em> putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these <em>things</em> shall never be moved.",
+      "info": ""
     }
   ]
 }
