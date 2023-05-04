@@ -13,7 +13,7 @@ This is what it would look like if you were to open up `./JSON/Psalms/3.json`.
             "chapter": 3,
             "verse": 1,
             "text": "LORD, how are they increased that trouble me! many <em>are</em> they that rise up against me.",
-			"info": ""
+	    "info": ""
         },
         ...
     ]
