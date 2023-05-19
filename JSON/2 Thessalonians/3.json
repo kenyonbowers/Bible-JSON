@@ -1,5 +1,6 @@
 {
-  "info": "",
+  "header": "",
+  "footer": "¶ The second <em>epistle</em> to the Thessalonians was written from Athens.",
   "verses": [
     {
       "book_id": "2TH",
@@ -143,7 +144,7 @@
       "chapter": 3,
       "verse": 18,
       "text": "The grace of our Lord Jesus Christ <em>be</em> with you all. Amen.",
-      "info": "¶ The second <em>epistle</em> to the Thessalonians was written from Athens."
+      "info": ""
     }
   ]
 }

@@ -1,5 +1,6 @@
 {
-  "info": "¶ A Song of degrees of David.",
+  "header": "¶ A Song of degrees of David.",
+  "footer": "",
   "verses": [
     {
       "book_id": "PSA",

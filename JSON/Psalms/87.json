@@ -1,5 +1,6 @@
 {
-  "info": "¶ A Psalm <em>or</em> Song for the sons of Korah.",
+  "header": "¶ A Psalm <em>or</em> Song for the sons of Korah.",
+  "footer": "",
   "verses": [
     {
       "book_id": "PSA",

@@ -1,5 +1,6 @@
 {
-  "info": "¶ A Psalm <em>or</em> Song for the sabbath day.",
+  "header": "¶ A Psalm <em>or</em> Song for the sabbath day.",
+  "footer": "",
   "verses": [
     {
       "book_id": "PSA",

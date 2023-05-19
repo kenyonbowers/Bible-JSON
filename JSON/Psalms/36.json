@@ -1,5 +1,6 @@
 {
-  "info": "¶ To the chief Musician, <em>A Psalm</em> of David the servant of the LORD.",
+  "header": "¶ To the chief Musician, <em>A Psalm</em> of David the servant of the LORD.",
+  "footer": "",
   "verses": [
     {
       "book_id": "PSA",

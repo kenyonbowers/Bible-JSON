@@ -1,5 +1,6 @@
 {
-  "info": "",
+  "header": "",
+  "footer": "¶ To <em>the</em> Ephesians written from Rome, by Tychicus.",
   "verses": [
     {
       "book_id": "EPH",
@@ -191,7 +192,7 @@
       "chapter": 6,
       "verse": 24,
       "text": "Grace <em>be</em> with all them that love our Lord Jesus Christ in sincerity. Amen.",
-      "info": "¶ To <em>the</em> Ephesians written from Rome, by Tychicus."
+      "info": ""
     }
   ]
 }

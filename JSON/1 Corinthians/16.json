@@ -1,5 +1,6 @@
 {
-  "info": "",
+  "header": "",
+  "footer": "¶ The first <em>epistle</em> to the Corinthians was written from Philippi by Stephanas and Fortunatus and Achaicus and Timotheus.",
   "verses": [
     {
       "book_id": "1CO",
@@ -191,7 +192,7 @@
       "chapter": 16,
       "verse": 24,
       "text": "My love <em>be</em> with you all in Christ Jesus. Amen.",
-      "info": "¶ The first <em>epistle</em> to the Corinthians was written from Philippi by Stephanas and Fortunatus and Achaicus and Timotheus."
+      "info": ""
     }
   ]
 }

@@ -1,5 +1,6 @@
 {
-  "info": "¶ David's <em>Psalm</em> of praise.",
+  "header": "¶ David's <em>Psalm</em> of praise.",
+  "footer": "",
   "verses": [
     {
       "book_id": "PSA",

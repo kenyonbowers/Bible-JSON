@@ -1,5 +1,6 @@
 {
-  "info": "¶ A Psalm <em>and</em> Song <em>at</em> the dedication of the house of David.",
+  "header": "¶ A Psalm <em>and</em> Song <em>at</em> the dedication of the house of David.",
+  "footer": "",
   "verses": [
     {
       "book_id": "PSA",

@@ -1,5 +1,6 @@
 {
-  "info": "¶ To the chief Musician, to Jeduthun, A Psalm of Asaph.",
+  "header": "¶ To the chief Musician, to Jeduthun, A Psalm of Asaph.",
+  "footer": "",
   "verses": [
     {
       "book_id": "PSA",

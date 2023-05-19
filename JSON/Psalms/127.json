@@ -1,5 +1,6 @@
 {
-  "info": "¶ A Song of degrees for Solomon.",
+  "header": "¶ A Song of degrees for Solomon.",
+  "footer": "",
   "verses": [
     {
       "book_id": "PSA",

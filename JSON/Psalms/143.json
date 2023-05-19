@@ -1,5 +1,6 @@
 {
-  "info": "¶ A Psalm of David.",
+  "header": "¶ A Psalm of David.",
+  "footer": "",
   "verses": [
     {
       "book_id": "PSA",

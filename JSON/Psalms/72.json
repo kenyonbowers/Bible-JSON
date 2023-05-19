@@ -1,5 +1,6 @@
 {
-  "info": "¶ <em>A Psalm</em> for Solomon.",
+  "header": "¶ <em>A Psalm</em> for Solomon.",
+  "footer": "",
   "verses": [
     {
       "book_id": "PSA",

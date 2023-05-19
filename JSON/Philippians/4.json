@@ -1,5 +1,6 @@
 {
-  "info": "",
+  "header": "",
+  "footer": "¶ To <em>the</em> Philippians written from Rome, by Epaphroditus.",
   "verses": [
     {
       "book_id": "PHP",
@@ -183,7 +184,7 @@
       "chapter": 4,
       "verse": 23,
       "text": "The grace of our Lord Jesus Christ <em>be</em> with you all. Amen.",
-      "info": "¶ To <em>the</em> Philippians written from Rome, by Epaphroditus."
+      "info": ""
     }
   ]
 }

@@ -1,5 +1,6 @@
 {
-  "info": "",
+  "header": "",
+  "footer": "¶ Written to the Romans from Corinthus, <em>and sent</em> by Phebe servant of the church at Cenchrea.",
   "verses": [
     {
       "book_id": "ROM",
@@ -215,7 +216,7 @@
       "chapter": 16,
       "verse": 27,
       "text": "To God only wise, <em>be</em> glory through Jesus Christ for ever. Amen.",
-      "info": "¶ Written to the Romans from Corinthus, <em>and sent</em> by Phebe servant of the church at Cenchrea."
+      "info": ""
     }
   ]
 }

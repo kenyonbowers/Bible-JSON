@@ -1,5 +1,6 @@
 {
-  "info": "",
+  "header": "",
+  "footer": "¶ Written to the Hebrews from Italy, by Timothy.",
   "verses": [
     {
       "book_id": "HEB",
@@ -199,7 +200,7 @@
       "chapter": 13,
       "verse": 25,
       "text": "Grace <em>be</em> with you all. Amen.",
-      "info": "¶ Written to the Hebrews from Italy, by Timothy."
+      "info": ""
     }
   ]
 }

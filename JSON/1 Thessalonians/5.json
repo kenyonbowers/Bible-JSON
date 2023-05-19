@@ -1,5 +1,6 @@
 {
-  "info": "",
+  "header": "",
+  "footer": "¶ The first <em>epistle</em> to the Thessalonians was written from Athens.",
   "verses": [
     {
       "book_id": "1TH",
@@ -223,7 +224,7 @@
       "chapter": 5,
       "verse": 28,
       "text": "The grace of our Lord Jesus Christ <em>be</em> with you. Amen.",
-      "info": "¶ The first <em>epistle</em> to the Thessalonians was written from Athens."
+      "info": ""
     }
   ]
 }

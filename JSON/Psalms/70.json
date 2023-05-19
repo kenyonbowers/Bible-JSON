@@ -1,5 +1,6 @@
 {
-  "info": "¶ To the chief Musician, <em>A Psalm</em> of David, to bring to remembrance.",
+  "header": "¶ To the chief Musician, <em>A Psalm</em> of David, to bring to remembrance.",
+  "footer": "",
   "verses": [
     {
       "book_id": "PSA",

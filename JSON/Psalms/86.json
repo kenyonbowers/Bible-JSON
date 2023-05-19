@@ -1,5 +1,6 @@
 {
-  "info": "¶ A Prayer of David.",
+  "header": "¶ A Prayer of David.",
+  "footer": "",
   "verses": [
     {
       "book_id": "PSA",

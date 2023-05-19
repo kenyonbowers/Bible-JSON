@@ -1,5 +1,6 @@
 {
-  "info": "",
+  "header": "",
+  "footer": "¶ It was written to Titus, ordained the first bishop of the church of the Cretians, from Nicopolis of Macedonia.",
   "verses": [
     {
       "book_id": "TIT",
@@ -119,7 +120,7 @@
       "chapter": 3,
       "verse": 15,
       "text": "All that are with me salute thee. Greet them that love us in the faith. Grace <em>be</em> with you all. Amen.",
-      "info": "¶ It was written to Titus, ordained the first bishop of the church of the Cretians, from Nicopolis of Macedonia."
+      "info": ""
     }
   ]
 }

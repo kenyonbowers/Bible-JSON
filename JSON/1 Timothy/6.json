@@ -1,5 +1,6 @@
 {
-  "info": "",
+  "header": "",
+  "footer": "¶ The first to Timothy was written from Laodicea, which is the chiefest city of Phrygia Pacatiana.",
   "verses": [
     {
       "book_id": "1TI",
@@ -167,7 +168,7 @@
       "chapter": 6,
       "verse": 21,
       "text": "Which some professing have erred concerning the faith. Grace <em>be</em> with thee. Amen.",
-      "info": "¶ The first to Timothy was written from Laodicea, which is the chiefest city of Phrygia Pacatiana."
+      "info": ""
     }
   ]
 }

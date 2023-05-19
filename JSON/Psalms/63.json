@@ -1,5 +1,6 @@
 {
-  "info": "¶ A Psalm of David, when he was in the wilderness of Judah.",
+  "header": "¶ A Psalm of David, when he was in the wilderness of Judah.",
+  "footer": "",
   "verses": [
     {
       "book_id": "PSA",
