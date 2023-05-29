@@ -47,7 +47,7 @@
       "book_name": "John",
       "chapter": 1,
       "verse": 6,
-      "text": "There was a man sent from God, whose name <em>was</em> John.",
+      "text": "¶ There was a man sent from God, whose name <em>was</em> John.",
       "info": ""
     },
     {
@@ -119,7 +119,7 @@
       "book_name": "John",
       "chapter": 1,
       "verse": 15,
-      "text": "John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.",
+      "text": "¶ John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.",
       "info": ""
     },
     {
@@ -151,7 +151,7 @@
       "book_name": "John",
       "chapter": 1,
       "verse": 19,
-      "text": "And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?",
+      "text": "¶ And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?",
       "info": ""
     },
     {
@@ -231,7 +231,7 @@
       "book_name": "John",
       "chapter": 1,
       "verse": 29,
-      "text": "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.",
+      "text": "¶ The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.",
       "info": ""
     },
     {
@@ -279,7 +279,7 @@
       "book_name": "John",
       "chapter": 1,
       "verse": 35,
-      "text": "Again the next day after John stood, and two of his disciples;",
+      "text": "¶ Again the next day after John stood, and two of his disciples;",
       "info": ""
     },
     {
@@ -343,7 +343,7 @@
       "book_name": "John",
       "chapter": 1,
       "verse": 43,
-      "text": "The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, <span style=\"color:red;\">Follow me.</span>",
+      "text": "¶ The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, <span style=\"color:red;\">Follow me.</span>",
       "info": ""
     },
     {

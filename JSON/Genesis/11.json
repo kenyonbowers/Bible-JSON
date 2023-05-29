@@ -79,7 +79,7 @@
       "book_name": "Genesis",
       "chapter": 11,
       "verse": 10,
-      "text": "These <em>are</em> the generations of Shem: Shem <em>was</em> an hundred years old, and begat Arphaxad two years after the flood:",
+      "text": "¶ These <em>are</em> the generations of Shem: Shem <em>was</em> an hundred years old, and begat Arphaxad two years after the flood:",
       "info": ""
     },
     {
@@ -215,7 +215,7 @@
       "book_name": "Genesis",
       "chapter": 11,
       "verse": 27,
-      "text": "Now these <em>are</em> the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot.",
+      "text": "¶ Now these <em>are</em> the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot.",
       "info": ""
     },
     {

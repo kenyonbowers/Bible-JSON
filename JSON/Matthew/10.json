@@ -127,7 +127,7 @@
       "book_name": "Matthew",
       "chapter": 10,
       "verse": 16,
-      "text": "<span style=\"color:red;\">Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.</span>",
+      "text": "¶ <span style=\"color:red;\">Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.</span>",
       "info": ""
     },
     {
@@ -319,7 +319,7 @@
       "book_name": "Matthew",
       "chapter": 10,
       "verse": 40,
-      "text": "<span style=\"color:red;\">He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.</span>",
+      "text": "¶ <span style=\"color:red;\">He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.</span>",
       "info": ""
     },
     {

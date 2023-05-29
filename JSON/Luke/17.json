@@ -23,7 +23,7 @@
       "book_name": "Luke",
       "chapter": 17,
       "verse": 3,
-      "text": "<span style=\"color:red;\">Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him.</span>",
+      "text": "¶ <span style=\"color:red;\">Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him.</span>",
       "info": ""
     },
     {
@@ -87,7 +87,7 @@
       "book_name": "Luke",
       "chapter": 17,
       "verse": 11,
-      "text": "And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee.",
+      "text": "¶ And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee.",
       "info": ""
     },
     {
@@ -159,7 +159,7 @@
       "book_name": "Luke",
       "chapter": 17,
       "verse": 20,
-      "text": "And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, <span style=\"color:red;\">The kingdom of God cometh not with observation:</span>",
+      "text": "¶ And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, <span style=\"color:red;\">The kingdom of God cometh not with observation:</span>",
       "info": ""
     },
     {
